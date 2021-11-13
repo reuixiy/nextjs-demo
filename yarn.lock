@@ -267,9 +267,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 16.11.6
-  resolution: "@types/node@npm:16.11.6"
-  checksum: 6e19634766ff589d3d2f361c2196b671f8f133cdadc5ad347a621c360d8994b6c4fbccfb2ad9c60c588c593831a96497c9c6b77d2b7e91be723384b94f6368e7
+  version: 16.11.7
+  resolution: "@types/node@npm:16.11.7"
+  checksum: 2706403e6efc4aa40fdce8f0b5d9884d5600c3c8610aedc7fa5e7e298d30366f7e8b7296028d52898dca3edef4c3e827b03bf20952c4780f13fa4e79864f7a86
   languageName: node
   linkType: hard
 
@@ -640,9 +640,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001202, caniuse-lite@npm:^1.0.30001219, caniuse-lite@npm:^1.0.30001228":
-  version: 1.0.30001278
-  resolution: "caniuse-lite@npm:1.0.30001278"
-  checksum: 5904289063885be40a98bf124191e816c68117d6a392065f937dd0b4929346bd677ed11ef00cadf65b2485635add46c9c33a85dc52dbf0f7dd6511f3452472bc
+  version: 1.0.30001280
+  resolution: "caniuse-lite@npm:1.0.30001280"
+  checksum: 5794b22f4254927f095e83c65e89ddfc63065c7ed16e6544555a3252ee3d16e48f8a7846713dc64869c52e1abe9a2a93161804b40c2097d1abc9aaa0155a0b65
   languageName: node
   linkType: hard
 
@@ -975,9 +975,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.3.723":
-  version: 1.3.890
-  resolution: "electron-to-chromium@npm:1.3.890"
-  checksum: 1ac87137ba1a317660fdf9292edfa5de33b6d24d15954d88b3f7ca109087f0ae8d088fc56fda724234af5d14d6a9ece62963dfec580e685026f9f1afb68e7bf5
+  version: 1.3.896
+  resolution: "electron-to-chromium@npm:1.3.896"
+  checksum: 6a6120bc6d2c53c57409831e0acd4c9d2c3c18e30851b3c9278bce9a4ad24ce7781fbc0fe735926aea358875ab5b10f32208df865a1c42ca565108f55b6e4aae
   languageName: node
   linkType: hard
 
@@ -2127,7 +2127,6 @@ __metadata:
     next: latest
     react: alpha
     react-dom: alpha
-    styled-jsx: ^4.0.1
   languageName: unknown
   linkType: soft
 
@@ -2501,15 +2500,15 @@ __metadata:
   linkType: hard
 
 "react-dom@npm:alpha":
-  version: 18.0.0-alpha-327d5c484-20211106
-  resolution: "react-dom@npm:18.0.0-alpha-327d5c484-20211106"
+  version: 18.0.0-alpha-cb11155c8-20211112
+  resolution: "react-dom@npm:18.0.0-alpha-cb11155c8-20211112"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-    scheduler: 0.21.0-alpha-327d5c484-20211106
+    scheduler: 0.21.0-alpha-cb11155c8-20211112
   peerDependencies:
-    react: 18.0.0-alpha-327d5c484-20211106
-  checksum: c1da729219ae3c9d01f6ff5cf0b1290b745317e620a17b429623b6be3826a84d0993ee74a279cc1923c569e1179c0d6dc4aed6272923a4f219b40f319edbd1f6
+    react: 18.0.0-alpha-cb11155c8-20211112
+  checksum: 42d4be405692561ef73a1343d3a8453260f9de504d0ea73f97e54aa8a61e81aaf2945ead25d1a480825f3fb24e4394c53d898d27ae71f442416863043342e8e9
   languageName: node
   linkType: hard
 
@@ -2528,12 +2527,12 @@ __metadata:
   linkType: hard
 
 "react@npm:alpha":
-  version: 18.0.0-alpha-327d5c484-20211106
-  resolution: "react@npm:18.0.0-alpha-327d5c484-20211106"
+  version: 18.0.0-alpha-cb11155c8-20211112
+  resolution: "react@npm:18.0.0-alpha-cb11155c8-20211112"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-  checksum: 2ee0d4b73302d4fcae20fc3f371bb369922337df877ee0ce508098d0cd3e1c158c77556d549fc7aeb8885ebbcefe47de7a110c4a886c53034ebc4f18b793d4b6
+  checksum: d15c6ee01fbe4ee2dde2c9874c77c060e8e4e6f7af5c2df962604ffc2b93e3ed801272674d4a10fe6a47f3712f451ad089c2c81a2142d0849907a5cb39849c99
   languageName: node
   linkType: hard
 
@@ -2635,13 +2634,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"scheduler@npm:0.21.0-alpha-327d5c484-20211106":
-  version: 0.21.0-alpha-327d5c484-20211106
-  resolution: "scheduler@npm:0.21.0-alpha-327d5c484-20211106"
+"scheduler@npm:0.21.0-alpha-cb11155c8-20211112":
+  version: 0.21.0-alpha-cb11155c8-20211112
+  resolution: "scheduler@npm:0.21.0-alpha-cb11155c8-20211112"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-  checksum: 060056d9ecd24c03cec49d7a78082a0ebff01d869f1381be0992fbd9ba9db72db00cd370309c710f8b79cd92f69110ef8c7f7a843bd7aaf61bae200384d27892
+  checksum: c3b755e75bc071be8c8adf391271d0fc75ba21ef98364e2401d45b5ec47d2d70e27dc42c76668ab66d7aaaaba3ec313a6c423988ae4fdfaae220a67dae74cc0d
   languageName: node
   linkType: hard
 
@@ -2933,27 +2932,6 @@ __metadata:
     "@babel/core":
       optional: true
   checksum: cc328a92b56fe4aadcb29031be1b006279f1194592f66677079abc7d4294d388962f9634ef67dccdc592ef3d8ceaa8af9603c60198cbd371444e46074a6b1747
-  languageName: node
-  linkType: hard
-
-"styled-jsx@npm:^4.0.1":
-  version: 4.0.1
-  resolution: "styled-jsx@npm:4.0.1"
-  dependencies:
-    "@babel/plugin-syntax-jsx": 7.14.5
-    "@babel/types": 7.15.0
-    convert-source-map: 1.7.0
-    loader-utils: 1.2.3
-    source-map: 0.7.3
-    string-hash: 1.1.3
-    stylis: 3.5.4
-    stylis-rule-sheet: 0.0.10
-  peerDependencies:
-    react: ">= 16.8.0 || 17.x.x || 18.x.x"
-  peerDependenciesMeta:
-    "@babel/core":
-      optional: true
-  checksum: a4260ba093086ed50c903ce1e4e564c4162d041238c02d8f9f8d1b259224f54ac49b49e9b4a6e3396c27e688dd870da7552c35ea9622c25aaa4777b2df64bb26
   languageName: node
   linkType: hard
 
