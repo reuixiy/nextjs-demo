@@ -12,11 +12,9 @@
 
 # next.js
 /.next/
-/next.lock/data/
-/out/
 
 # production
-/build
+/out/
 
 # misc
 .DS_Store
