@@ -4,7 +4,6 @@ const isExport = process.env.NEXT_EXPORT === 'true'
 
 const nextConfig = {
   basePath: isExport ? basePath : '',
-  // assetPrefix: isExport ? basePath : '',
   reactStrictMode: true,
   swcMinify: true,
   experimental: {
