@@ -6,7 +6,7 @@ import confetti from 'https://cdn.skypack.dev/canvas-confetti'
 export default function Home() {
   useEffect(() => {
     confetti()
-  })
+  }, [])
 
   return (
     <div className="container">
