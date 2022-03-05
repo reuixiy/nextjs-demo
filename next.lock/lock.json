@@ -1,5 +1,5 @@
 {
-  "https://cdn.skypack.dev/-/canvas-confetti@v1.4.0-POmgSMO0U5q84otJfYlN/dist=es2019,mode=imports/optimized/canvas-confetti.js": { "integrity": "sha512-CQvMBYvw2oXoavqkNwjHzIBuL0at7CkHRlcJp7WZeXKOMAiCotkJ5ud2yHUAkmQmRmN7kl3x9kW8aKaErG3uLQ==", "contentType": "application/javascript; charset=utf-8" },
-  "https://cdn.skypack.dev/canvas-confetti": { "integrity": "sha512-u8eX5BcoJhw6bt7ArFiynDqpYoADBSvY/xqUNhFfHtO3BvWIIzJJFj8He3SIdsayNyJdz2sDt9V47m6f2hppCQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/-/canvas-confetti@v1.5.1-FOulXvdGbkdJFGKB7EdB/dist=es2019,mode=imports/optimized/canvas-confetti.js": { "integrity": "sha512-maNVXvZwEc50hpjU8S+VoQ+sfnvtw1sF1D2a2L/hPpf/Dws8Nh6Wp5C33XHTFvHL97TPOnwyWfdeFEDwLBm7Pw==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/canvas-confetti": { "integrity": "sha512-C+oU9kgppJCPEwt86ghINK+Rtm9l/AwO+zPJCpH7Wg4R4bQhzrKOkz/aoAKE3oPjaeKk4K6L0yVoFNK0E08OJQ==", "contentType": "application/javascript; charset=utf-8" },
   "version": 1
 }

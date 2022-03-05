@@ -8,9 +8,10 @@ const nextConfig = {
   swcMinify: true,
   experimental: {
     scrollRestoration: true,
-    concurrentFeatures: isExport ? false : true,
-    serverComponents: isExport ? false : true,
     urlImports: ['https://cdn.skypack.dev'],
+    // https://nextjs.org/docs/advanced-features/react-18/overview
+    // runtime: 'nodejs',
+    // serverComponents: isExport ? false : true,
   },
   images: {
     formats: ['image/avif', 'image/webp'],
